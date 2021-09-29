@@ -1,4 +1,4 @@
-module github.com/NekruziKabirzoda/stats
+module github.com/NekruziKabirzoda/bank/v1
 
 go 1.17
 
